@@ -1,0 +1,6 @@
+name: Kon-Aqua
+version: '${version}'
+main: com.github.countercocoa.konaqua.KonAqua
+api-version: 1.17
+authors: [ Sawa ]
+description: MC player joined message
